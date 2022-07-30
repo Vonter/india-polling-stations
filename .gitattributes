@@ -1,1 +1,6 @@
-data/state/karnataka/Karnataka.geojson filter=lfs diff=lfs merge=lfs -text
+data/state/karnataka/geojson/Karnataka.geojson filter=lfs diff=lfs merge=lfs -text
+data/state/karnataka/kml/Karnataka.kml filter=lfs diff=lfs merge=lfs -text
+data/state/karnataka/shp/Karnataka.dbf filter=lfs diff=lfs merge=lfs -text
+data/state/karnataka/shp/Karnataka.prj filter=lfs diff=lfs merge=lfs -text
+data/state/karnataka/shp/Karnataka.shp filter=lfs diff=lfs merge=lfs -text
+data/state/karnataka/shp/Karnataka.shx filter=lfs diff=lfs merge=lfs -text

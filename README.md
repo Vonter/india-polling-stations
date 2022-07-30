@@ -13,15 +13,17 @@ Data on this repository has been scraped/sourced from:
 Available in the following formats:
 
 - GeoJSON (`.geojson`)
+- KML (`.kml`)
+- Shapefile (`.shp`)
 
 ##### Folder Structure
 
 - `data/state/`: Polling station boundaries for an entire State
 - `data/district/`: Polling station boundaries for each District
-- `data/ac/`: Polling station boundaries for each Assembly Constituency
+- `data/loksabha/`: Polling station boundaries for each Lok Sabha Constituency
+- `data/assembly/`: Polling station boundaries for each Assembly Constituency
 
 ### TODO
 
-- More formats (Shapefile, KML, ...)
 - Add scraping scripts
 - More states
