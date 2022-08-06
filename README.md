@@ -15,13 +15,14 @@ Available in the following formats:
 - GeoJSON (`.geojson`)
 - KML (`.kml`)
 - Shapefile (`.shp`)
+- FlatGeobuf (`.fgb`): Only for state level data.
+- PMTiles (`.pmtiles`): Only for state level data.
 
-##### Folder Structure
-
-- `data/state/`: Polling station boundaries for an entire State
-- `data/district/`: Polling station boundaries for each District
-- `data/loksabha/`: Polling station boundaries for each Lok Sabha Constituency
-- `data/assembly/`: Polling station boundaries for each Assembly Constituency
+Available at the following administrative levels:
+- State: On the [releases](https://github.com/Vonter/india-polling-stations/releases) page.
+- District: In the repository under `data/district/`
+- Lok Sabha Constituency: In the repository under `data/loksabha/`
+- Assembly Constituency: In the repository under `data/assembly/`
 
 ### TODO
 
